@@ -1,4 +1,4 @@
-package mrticket.learningmod.core;
+package mrticket.learningmod;
 
 public class LearningMod {
 
